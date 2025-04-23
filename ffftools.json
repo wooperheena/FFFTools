@@ -13,14 +13,14 @@
   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_midnative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "app_name":"Play & Win Diamond"
-  "app_shortdecription":"Win 1.00.000 Diamond & More"
-  "app_buttonname":"Play Now"
-  "app_rating":""
-  "app_download":""
-  "app_packagename":""
-  "app_banner":""
-  "app_logo":""
+  "app_name":"Play & Win Diamond",
+  "app_shortdecription":"Win 1.00.000 Diamond & More",
+  "app_buttonname":"Play Now",
+  "app_rating":"",
+  "app_download":"",
+  "app_packagename":"",
+  "app_banner":"",
+  "app_logo":"",
   "back_ads": "yes",
   "app_opentime": "1",
   "app_openFirsttime": "1",
