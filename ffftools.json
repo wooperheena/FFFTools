@@ -19,8 +19,8 @@
   "app_rating":"",
   "app_download":"",
   "app_packagename":"",
-  "app_logo":"",
-  "app_banner":"https://codebeeinfotech.com/noti_img/banner.jpeg",
+  "app_logo":"https://codebeeinfotech.com/noti_img/banner.jpeg",
+  "app_banner":"",
   "qureca_link":"https://1091.go.mglgamez.com/pregames",
   "back_ads": "yes",
   "app_opentime": "0",
@@ -49,7 +49,7 @@
   "screen7": "1",
   "screen8": "1",
   "screen9": "1",
-  "screen10": "1",
+  "screen10": "0",
   "application_id": "0",
   "client_token": "0"
 }
